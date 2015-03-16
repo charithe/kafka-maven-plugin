@@ -19,7 +19,7 @@
 
     <groupId>com.github.charithe</groupId>
     <artifactId>kafka-maven-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>kafka-maven-plugin Maven Plugin</name>
@@ -44,7 +44,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/charithe/kafka-maven-plugin.git</developerConnection>
         <url>https://github.com/charithe/kafka-maven-plugin</url>
-        <tag>kafka-maven-plugin-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
