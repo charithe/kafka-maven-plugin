@@ -28,7 +28,7 @@ Use in conjunction with the failsafe plugin to start the broker before integrati
         <plugin>
             <groupId>com.github.charithe</groupId>
             <artifactId>kafka-maven-plugin</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0</version>
             <configuration>
                 <zookeeperPort>52181</zookeeperPort>
                 <kafkaPort>59092</kafkaPort>
